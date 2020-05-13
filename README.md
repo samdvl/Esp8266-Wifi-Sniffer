@@ -11,5 +11,5 @@ You can find the stl files on thingiverse: https://www.thingiverse.com/thing:436
 # Dependencies
 You can install them with the Library Manager in Arduino IDE:
 
-    ESP8266 boards
-    U8g2lib ( https://github.com/olikraus/u8g2 )
+   - ESP8266 boards
+   - U8g2lib ( https://github.com/olikraus/u8g2 )
