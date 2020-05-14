@@ -13,7 +13,7 @@ It’s located on the back side, above the D6 print there are two capacitors and
 
 This project is based on the great work of Ray Burnette: https://www.hackster.io/rayburne/esp8266-mini-sniff-f6b93a and Andreas Spiess https://github.com/SensorsIot/Wi-Fi-Sniffer-as-a-Human-detector
 
-I also designed a case that contains the TTGO board and a 18650 lithium battery to make this device extremely portable.
+I designed a case that contains the TTGO board and a 18650 lithium battery to make this device extremely portable.
 You can find the stl files on thingiverse: https://www.thingiverse.com/thing:4361100
 
 # Dependencies
