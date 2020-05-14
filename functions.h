@@ -78,7 +78,7 @@ int register_client(clientinfo &ci) {
   }
 
   //Uncomment the line below to disable collection of probe requests from randomised MAC's
-  if (ci.channel == -2) known = 1; // This will disable collection of probe requests from randomised MAC's
+  //if (ci.channel == -2) known = 1; // This will disable collection of probe requests from randomised MAC's
   
   if (! known) {
     ci.lastDiscoveredTime = millis();
