@@ -3,7 +3,7 @@ This simple software controls the esp8266 TTGO 0.91 oled board.
 It shows the number of discovered devices, access points and clients, on the screen and alerts the user with a buzzer.
 Additionally it shows the mac address of the client with the strongest signal.
 
-![Front of the board](https://i.postimg.cc/0QVmBcpz/content-duckduckgo-com.jpg)
+![Front of the board](https://i.imgur.com/87fopMA.jpg)
 
 This board has a 390k resistor between 3.3v and Vdd of the oled lcd, that prevents the boot from flash once powered on and requires you to press the reset button.
 To solve this issue you can simply remove it and solder a bridge instead.
