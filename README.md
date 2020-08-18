@@ -2,6 +2,7 @@
 This simple software controls the esp8266 TTGO 0.91 oled board.
 It shows the number of discovered access points and clients, and alerts the user with a sound.
 Additionally it shows the mac address of the client with the strongest signal.
+Old mac addresses are removed from the memory, the time interval is defined in the PURGETIME constant.
 
 ![Front of the board](https://i.imgur.com/87fopMA.jpg)
 
