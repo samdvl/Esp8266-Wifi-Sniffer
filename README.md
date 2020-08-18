@@ -4,7 +4,9 @@ It shows the number of discovered access points and clients, and alerts the user
 Additionally it shows the mac address of the client with the strongest signal.
 Old mac addresses are removed from the memory, the time interval is defined in the PURGETIME constant.
 
-![Front of the board](https://i.imgur.com/87fopMA.jpg)
+This device could be used for contact tracing, and help prevent the spread of COVID-19.
+
+![Front of the board](https://i.imgur.com/k718CvT.jpg)
 
 This project is based on the great work of Ray Burnette: https://www.hackster.io/rayburne/esp8266-mini-sniff-f6b93a and Andreas Spiess https://github.com/SensorsIot/Wi-Fi-Sniffer-as-a-Human-detector
 
