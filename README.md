@@ -72,6 +72,8 @@ This project builds upon the excellent work of:
 
 ## 📄 License
 
-See [LICENSE](LICENSE).
-   - ESP8266 boards
-   - U8g2lib ( https://github.com/olikraus/u8g2 )
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+### Third-Party Libraries
+- [ESP8266 Arduino Core](https://github.com/esp8266/Arduino) — LGPL-2.1 License
+- [U8g2lib](https://github.com/olikraus/u8g2) — BSD-2-Clause License
